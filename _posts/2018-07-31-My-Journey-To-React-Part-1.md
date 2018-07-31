@@ -4,4 +4,5 @@ title: Journey to React - part 1
 comments: true
 ---
 
-Nowadays, there are many javascript frameworks out there to choose when you want to improve your web site's front end.
+There are many javascript frameworks out there to choose when you want to improve your web site's front end or develop hybrid mobile applicatioins.  
+One of them is react js which is backed by Facebook.    
